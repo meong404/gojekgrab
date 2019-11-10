@@ -11,4 +11,7 @@ $ pkg install python2
 lalu 
 
 $ cd gojekgrab
+
+
+
 $ python2 gograb.py
